@@ -1,0 +1,1 @@
+void bin_image(MRC* stack_orig, MRC* stack_bin, int bin);

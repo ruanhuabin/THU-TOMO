@@ -1,0 +1,1 @@
+void low_pass(MRC* stack_orig, MRC* stack_lp, float lp);
